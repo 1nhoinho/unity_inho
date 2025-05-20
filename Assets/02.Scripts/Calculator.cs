@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class Calculator : MonoBehaviour
 {
-    public int number1 = 5; // ¸â¹ö ÇÔ¼ö
-    public int number2 = 2;
+    public int number1; // ¸â¹ö ÇÔ¼ö
+    public int number2;
 
     void Start()
     {
